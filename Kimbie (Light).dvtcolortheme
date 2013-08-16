@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-    Name:       Kimbie (Light)
-    Author:     Jan T. Sott (http://github.com/idleberg)
+    Name:       Kimbie (light)
+    Author:     Jan T. Sott
+    License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+    URL:        https://github.com/idleberg/Kimbie-Xcode
 
-    Color scheme by Jan T. Sott (https://github.com/idleberg/Kimbie-Xcode)
     Base16 template by for Xcode by Joe Bilt (https://github.com/joedynamite)
 
 -->
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>DVTConsoleDebuggerInputTextColor</key>
